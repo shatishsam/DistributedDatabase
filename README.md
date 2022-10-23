@@ -1,1 +1,2 @@
-# DistributedDatabase
+Distributed database is a spring boot application which is a RDBMS clone it handles multiple users across multiple locations and promises ACID properties.
+Rest API is used to communicate between different nodes of database and data is kept in memory using HashMap
